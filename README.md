@@ -37,4 +37,4 @@ This software leverages the Core Flight Executive (cFE) and AutoNav, components 
 ## Contact
 Harlan Phillips - harlanphillips74@gmail.com
 
-Project Link: [https://github.com/yourusername/yourrepositoryname](https://github.com/yourusername/yourrepositoryname)]
+Project Link: [https://github.com/yourusername/yourrepositoryname](https://github.com/yourusername/yourrepositoryname)
