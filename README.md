@@ -34,13 +34,7 @@ To run the rover simulation:
 ## Acknowledgments
 This software leverages the Core Flight Executive (cFE) and AutoNav, components previously utilized in notable missions like VIPER and Perseverance. This reusability significantly reduces the risk factor by incorporating tested and proven software elements.
 
-## License
-[Specify the license here, typically MIT, GPL, etc.]
-
-## Contributions
-Contributions to the MARCIE Lunar Rover software are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests to us.
-
 ## Contact
-[Your Name] - [Your Email]
+Harlan Phillips - harlanphillips74@gmail.com
 
-Project Link: [https://github.com/yourusername/yourrepositoryname](https://github.com/yourusername/yourrepositoryname)
+Project Link: [https://github.com/yourusername/yourrepositoryname](https://github.com/yourusername/yourrepositoryname)]
