@@ -1,7 +1,7 @@
-# Lunar Rover Software for MARCIE
+# Lunar Rover Software for MARSIE
 
 ## Overview
-This repository houses the software developed for the MARCIE Lunar Rover. The software encompasses the architecture and flow essential for the rover's operation on the lunar surface, focusing on mission-critical processes such as power management, navigation, and data transmission.
+This repository houses the software developed for the MARSIE Lunar Rover. The software encompasses the architecture and flow essential for the rover's operation on the lunar surface, focusing on mission-critical processes such as power management, navigation, and data transmission.
 
 ### Key Components
 - **Software Architecture**: Utilizes the RAD5545 processor for its reliability and robust memory alongside Single Board Computers (SBCs) for enhanced functionality.
